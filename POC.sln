@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfPoc", "WpfPoc\WpfPoc.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MudSample", "MudSample\MudSample.csproj", "{6A595D2B-3047-4014-915F-E20595558430}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorApp", "BlazorApp\BlazorApp.csproj", "{993D9926-4803-4992-96B8-480FE8E3508D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{6A595D2B-3047-4014-915F-E20595558430}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6A595D2B-3047-4014-915F-E20595558430}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6A595D2B-3047-4014-915F-E20595558430}.Release|Any CPU.Build.0 = Release|Any CPU
+		{993D9926-4803-4992-96B8-480FE8E3508D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{993D9926-4803-4992-96B8-480FE8E3508D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{993D9926-4803-4992-96B8-480FE8E3508D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{993D9926-4803-4992-96B8-480FE8E3508D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
