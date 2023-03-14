@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33424.131
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfPoc", "WpfPoc\WpfPoc.csproj", "{BA7F1302-704C-4CBF-8440-363990994A3F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfPoc", "WpfPoc\WpfPoc.csproj", "{BA7F1302-704C-4CBF-8440-363990994A3F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MudSample", "MudSample\MudSample.csproj", "{6A595D2B-3047-4014-915F-E20595558430}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MudSample", "MudSample\MudSample.csproj", "{6A595D2B-3047-4014-915F-E20595558430}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorApp", "BlazorApp\BlazorApp.csproj", "{993D9926-4803-4992-96B8-480FE8E3508D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorApp", "BlazorApp\BlazorApp.csproj", "{993D9926-4803-4992-96B8-480FE8E3508D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PocApi", "PocApi\PocApi.csproj", "{FCAC96DA-92D0-42B8-97D8-81A10BD8878D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PocApi", "PocApi\PocApi.csproj", "{FCAC96DA-92D0-42B8-97D8-81A10BD8878D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EPX.RuleBox", "EPX.RuleBox\EPX.RuleBox.csproj", "{D9E3163E-7DCF-4F58-A66A-D3768FDAEEFE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{FCAC96DA-92D0-42B8-97D8-81A10BD8878D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FCAC96DA-92D0-42B8-97D8-81A10BD8878D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FCAC96DA-92D0-42B8-97D8-81A10BD8878D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9E3163E-7DCF-4F58-A66A-D3768FDAEEFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9E3163E-7DCF-4F58-A66A-D3768FDAEEFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9E3163E-7DCF-4F58-A66A-D3768FDAEEFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9E3163E-7DCF-4F58-A66A-D3768FDAEEFE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
