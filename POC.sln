@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PocApi", "PocApi\PocApi.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EPX.RuleBox", "EPX.RuleBox\EPX.RuleBox.csproj", "{D9E3163E-7DCF-4F58-A66A-D3768FDAEEFE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MParser", "MParser\MParser.csproj", "{6637FEEF-0064-4B66-A59B-45C276B81E06}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{D9E3163E-7DCF-4F58-A66A-D3768FDAEEFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D9E3163E-7DCF-4F58-A66A-D3768FDAEEFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D9E3163E-7DCF-4F58-A66A-D3768FDAEEFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6637FEEF-0064-4B66-A59B-45C276B81E06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6637FEEF-0064-4B66-A59B-45C276B81E06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6637FEEF-0064-4B66-A59B-45C276B81E06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6637FEEF-0064-4B66-A59B-45C276B81E06}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

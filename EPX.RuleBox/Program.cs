@@ -59,7 +59,7 @@ foreach (Customer customer in new Customer[] { alice, bob, charlie })
     }
     Console.WriteLine();
 }
-    }
+    
 
 
 // A class that represents a customer
