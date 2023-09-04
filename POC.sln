@@ -23,7 +23,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Plugin", "Plugin", "{2735B2
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloPlugin", "HelloPlugin\HelloPlugin.csproj", "{B25A833E-69E0-47F5-B0AF-98F12090238F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpParser2", "ExpParser2\ExpParser2.csproj", "{5E7DA384-684D-4C08-AE4F-955714110589}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExpParser2", "ExpParser2\ExpParser2.csproj", "{5E7DA384-684D-4C08-AE4F-955714110589}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Evals", "Evals\Evals.csproj", "{67BADB95-33CD-4A61-B829-E31D9A2D86FE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -71,6 +73,10 @@ Global
 		{5E7DA384-684D-4C08-AE4F-955714110589}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5E7DA384-684D-4C08-AE4F-955714110589}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5E7DA384-684D-4C08-AE4F-955714110589}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67BADB95-33CD-4A61-B829-E31D9A2D86FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67BADB95-33CD-4A61-B829-E31D9A2D86FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67BADB95-33CD-4A61-B829-E31D9A2D86FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67BADB95-33CD-4A61-B829-E31D9A2D86FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
